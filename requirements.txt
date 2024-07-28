@@ -1,0 +1,11 @@
+click==8.1.7
+greenlet==3.0.3
+mypy-extensions==1.0.0
+packaging==24.1
+pathspec==0.12.1
+platformdirs==4.2.2
+SQLAlchemy==2.0.31
+SQLAlchemy-Utils==0.41.2
+tomli==2.0.1
+tqdm==4.66.4
+typing_extensions==4.12.2
